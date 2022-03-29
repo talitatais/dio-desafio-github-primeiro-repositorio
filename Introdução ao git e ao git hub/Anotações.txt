@@ -1,0 +1,3 @@
+Esse arquivo contém o link para o download do Git Bash:
+
+https://git-scm.com/downloads
